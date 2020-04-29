@@ -1,0 +1,95 @@
+strain,PatricID,CI,avg,se
+Colwellia 12G3,28228.1,NA,NA,NA
+Colwellia 75C3,28228.11,NA,NA,NA
+Colwellia aestuarii strain CGMCC1.6965,329993.4,NA,NA,NA
+Colwellia aestuarii strain KCTC 12480,329993.3,NA,NA,NA
+Colwellia Bg11-28,28228.12,NA,NA,NA
+Colwellia Bg11-28,28228.9,NA,NA,NA
+Colwellia chukchiensis strain CGMCC 1.9127,641665.3,NA,NA,NA
+Colwellia chukchiensis strain CGMCC1.9127,641665.4,NA,NA,NA
+Colwellia demingiae strain ACAM 459,89401.3,0.93,10.93,0.47
+Colwellia hornerae strain ACAM 607,89402.5,3.18,10.84,1.59
+Colwellia hornerae strain IC036,89402.4,NA,NA,NA
+Colwellia hornerae strain IC037,89402.3,NA,NA,NA
+Colwellia marinimaniae strain MTCD1,1513592.3,NA,NA,NA
+Colwellia mytili strain KCTC 52417,1888913.3,NA,NA,NA
+Colwellia piezophila ATCC BAA-637,1265503.3,3.33,9.88,1.66
+Colwellia polaris strain MCCC1C00015,326537.3,NA,NA,NA
+Colwellia psychrerythraea 34H,167879.5,3.53,12.94,1.77
+Colwellia psychrerythraea GAB14E,28229.3,NA,NA,NA
+Colwellia psychrerythraea ND2E,28229.4,NA,NA,NA
+Colwellia psychrerythraea strain 38_32_sub10_T18,28229.6,NA,NA,NA
+Colwellia psychrerythraea strain Glo_19,28229.11,NA,NA,NA
+Colwellia sediminilitoris strain KCTC 52213,1820336.3,NA,NA,NA
+Colwellia sp. 12G3,2058299.3,NA,NA,NA
+Colwellia sp. 20A7,2689569.3,NA,NA,NA
+Colwellia sp. 39_35_sub15_T18 strain 39_35_sub15_T18,1856279.3,NA,NA,NA
+Colwellia sp. 75C3,888425.3,NA,NA,NA
+Colwellia sp. 8_GOM-1096m,1380381.3,NA,NA,NA
+Colwellia sp. A3T,1982103.3,NA,NA,NA
+Colwellia sp. Arc7-635,2497879.3,NA,NA,NA
+Colwellia sp. Arc7-D,2161872.4,NA,NA,NA
+Colwellia sp. Bg11-12,1816218.37,1.32,11.69,0.66
+Colwellia sp. Bg11-28,2058305.3,7.63,12.71,3.82
+Colwellia sp. Bin11-node4,2267621.3,NA,NA,NA
+Colwellia sp. BRX10-1,1816218.16,8.3,11.55,4.15
+Colwellia sp. BRX10-2,1816218.17,4.95,9.53,2.47
+Colwellia sp. BRX10-3,1967665.5,NA,NA,NA
+Colwellia sp. BRX10-4,1816218.18,11.67,10.88,5.83
+Colwellia sp. BRX10-5,1816218.19,4.46,14.86,2.23
+Colwellia sp. BRX10-6,1816218.28,7.03,14.22,3.52
+Colwellia sp. BRX10-7,1816218.2,8.3,12.61,4.15
+Colwellia sp. BRX10-9,1816218.21,1.53,9.12,0.77
+Colwellia sp. BRX8-2,1816218.29,10.82,11.19,5.41
+Colwellia sp. BRX8-3,1816218.3,8.37,10.68,4.19
+Colwellia sp. BRX8-4,1816218.22,7.13,11.16,3.57
+Colwellia sp. BRX8-5,1816218.23,3.7,15.07,1.85
+Colwellia sp. BRX8-6,1816218.24,7.83,13.32,3.92
+Colwellia sp. BRX8-7,1816218.25,1.16,10.3,0.58
+Colwellia sp. BRX8-8,1816218.31,2.58,9.28,1.29
+Colwellia sp. BRX8-9,1816218.26,8.03,6.97,4.02
+Colwellia sp. BRX9-1,1816218.27,8.97,11.74,4.48
+Colwellia sp. C1TZA3,2508879.3,NA,NA,NA
+Colwellia sp. ESRF-bin12,2011145.3,NA,NA,NA
+Colwellia sp. ESRF-bin23,2011152.3,NA,NA,NA
+Colwellia sp. ESRF-bin71,2011157.3,NA,NA,NA
+Colwellia sp. ESRF-bin9,2011151.3,NA,NA,NA
+Colwellia sp. MB02u-1,1967665.11,3.19,6.09,1.6
+Colwellia sp. MB02u-10,1967665.15,1.42,6.77,0.71
+Colwellia sp. MB02u-11,1816218.39,NA,NA,NA
+Colwellia sp. MB02u-12,1967665.16,2.84,7.57,1.42
+Colwellia sp. MB02u-14,1816218.4,1.89,6.88,0.94
+Colwellia sp. MB02u-18,1967665.17,11.02,10.56,5.51
+Colwellia sp. MB02u-19,1967665.6,2.64,7.47,1.32
+Colwellia sp. MB02u-6,1967665.13,3.06,6.46,1.53
+Colwellia sp. MB02u-7,1816218.38,1.6,4.16,0.8
+Colwellia sp. MB02u-9,1967665.14,NA,NA,NA
+Colwellia sp. MB3u-22,1816218.32,104.59,0.14,52.3
+Colwellia sp. MB3u-28,1816218.33,1.27,5.04,0.64
+Colwellia sp. MB3u-4,1967665.7,9.2,4.44,4.6
+Colwellia sp. MB3u-41,1816218.34,3.72,3.44,1.86
+Colwellia sp. MB3u-43,1967665.1,NA,NA,NA
+Colwellia sp. MB3u-45,1967665.9,1.79,8.72,0.9
+Colwellia sp. MB3u-55,1816218.35,0.83,9.19,0.41
+Colwellia sp. MB3u-64,1816218.36,2.62,4.17,1.31
+Colwellia sp. MB3u-70,1967665.12,5.41,7.02,2.7
+Colwellia sp. MB3u-8,1967665.8,0.27,15.11,0.14
+Colwellia sp. MT2012,1718921.3,NA,NA,NA
+Colwellia sp. MT41,58049.4,NA,NA,NA
+Colwellia sp. NB097-1 strain NB097-1,1967665.3,NA,NA,NA
+Colwellia sp. OISW-25,2304625.3,NA,NA,NA
+Colwellia sp. PAMC 20917,1816218.3,NA,NA,NA
+Colwellia sp. PAMC 21821 strain PAMC 21821,1816219.4,NA,NA,NA
+Colwellia sp. Phe_37,1795872.3,NA,NA,NA
+Colwellia sp. QM50 strain QM50,1911682.3,NA,NA,NA
+Colwellia sp. RSH04,2305464.3,NA,NA,NA
+Colwellia sp. strain bin20,56799.6,NA,NA,NA
+Colwellia sp. strain bin21,56799.7,NA,NA,NA
+Colwellia sp. strain Glo_8,56799.8,NA,NA,NA
+Colwellia sp. strain NORP29,56799.4,NA,NA,NA
+Colwellia sp. strain NORP5,56799.5,NA,NA,NA
+Colwellia sp. strain UBA10809,56799.9,NA,NA,NA
+Colwellia sp. strain UBA8227,56799.11,NA,NA,NA
+Colwellia sp. strain UBA8680,56799.1,NA,NA,NA
+Colwellia sp. TT2012,1720342.3,NA,NA,NA
+Colwellia sp. UCD-KL20 strain UCD-KL20,1917165.4,NA,NA,NA
